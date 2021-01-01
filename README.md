@@ -1,9 +1,9 @@
-# Avestan
+# Avestan 
 Following list shows Avestan corresponding English letters that could be used to write Sara Pârsik:
 
-A (â)
-S (š)
-Z (ž)
+A (â)<br/>
+S (š)<br/>
+Z (ž)<br/>
 a
 b
 c
